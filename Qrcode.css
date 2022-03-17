@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(243, 232, 209);
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin: 0;
+}
+.middle{
+    background-color: rgb(237, 217, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 30px;
+    padding-bottom: 200px;
+}
+.card{ 
+    background-color: white;
+    width: 240px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-top: 10px;
+    border-bottom: 30px; 
+    border-style: solid;
+    border-color: white; 
+    border-radius: 17px;
+    padding: 3px; */
+    border: 20px; 
+    padding: 8px;
+    border-radius: 17px;
+
+} 
+.Qrcode{
+    width: 238px;
+    position: relative;
+    margin-left: 0;
+    margin-right: 0; 
+    border-radius: 17px;
+}
+.text{
+    background-color: white;
+}
+.text p{
+    color: rgb(126, 125, 125)
+} 
+hr{ 
+    border-style: none;
+    border-color: darksalmon;
+    border-top-style: dotted;
+    border-radius: 40px;
+    border-width: 5px; 
+    width: 100%;
+}
+.smiley{
+    position: relative;
+    margin-top: 0;
+    margin-left:500px;
+    /* margin-right: auto; */
+}
+.ribbon{
+    position: relative;
+    margin-right: 40px;
+    width: 50px;
+    height: 50px; 
+}
+h2{
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: rgb(17, 233, 161);
+}
